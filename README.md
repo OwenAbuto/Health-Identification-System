@@ -21,7 +21,7 @@ This is a simple health identification system implemented in Python, designed to
 - ### Prerequisites
 
 - Python 3.x
-- Required Python libraries (see `requirements.txt`).
+
 
 ### Installation
 
