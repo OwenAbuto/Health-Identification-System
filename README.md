@@ -1,7 +1,7 @@
 # Health-Identification-System
 Software Development Project. 
 
-This is a simple health identification system implemented in Python, designed to help healthcare professionals manage patient records and identify patients efficiently.
+This is a simple health identification system implemented in Python, designed to help healthcare professionals manage patient records and identify patients efficiently, for a Software Development Course.
 
 ## Features/Characteristics
 
