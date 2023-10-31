@@ -28,7 +28,7 @@ This is a simple health identification system implemented in Python, designed to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/health-identification-system.git
+   git clone https://github.com/OwenAbuto/Health-Identification-System.git
    cd health-identification-system
 
 
