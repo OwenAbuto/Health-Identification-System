@@ -1,4 +1,8 @@
 print()
 print("Welcome to OLYMPUS Health Detection System")
 
+<<<<<<< HEAD
 print() 
+=======
+print() 
+>>>>>>> 158bec052f5af911b26d88229d0f1a1c140b312a
