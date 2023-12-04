@@ -78,13 +78,13 @@ https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&n
    
 ## Usage
 
-** Basic user management by users and advanced user management by administrator**
+**Basic user management by users and advanced user management by administrator**
 
-** Report generation to users, hospitals, and third parties such as insurance companies**
+**Report generation to users, hospitals, and third parties such as insurance companies**
 
-** DDD Implementation**
+**DDD Implementation**
 
-** Symptom inputs and generated outputs**
+**Symptom inputs and generated outputs**
 
 ### Developer
 Owen Abuto Okoth 
