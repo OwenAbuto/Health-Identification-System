@@ -35,6 +35,31 @@ This is a simple health identification system implemented in Python, designed to
 ### Sources and References
 (Fields to be added)
 
+##  Features
+
+Log In
+
+User Management: Create, edit, and delete user profiles, including essential information like name, age, blood type, and gender.
+
+Symptom Input: Record a wide range of symptoms experienced by users, allowing for comprehensive symptom analysis.
+
+Symptom Report Generation: Generate detailed reports summarizing user symptoms, potential diagnoses, and preventive measures.
+
+Domain-Driven Design (DDD): Employ DDD principles to create a maintainable and scalable architecture, ensuring system robustness and flexibility.
+
+Communication with Insurance 
+
+## UML Diagrams
+
+To enhance the understanding of the system's structure and behavior, UML diagrams have been created for the core classes:
+
+Class Diagram: Illustrates the relationships and attributes of the classes involved in the system.
+
+Activity Diagrams: Depict the workflows for user interactions and system operations
+
+Sequence diagrams: Interaction between objects in a simplified manner. 
+
+
 ### Developer
 Owen Abuto Okoth 
 2023. 
