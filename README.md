@@ -23,9 +23,6 @@ This is a simple health identification system implemented in Python, designed to
 - Python 3.x
 
 
-
-[CLassDiagram.drawio.pdf](https://github.com/OwenAbuto/Health-Identification-System/files/13546070/CLassDiagram.drawio.pdf)
-
 ### Installation
 
 1. Clone the repository:
