@@ -37,17 +37,19 @@ This is a simple health identification system implemented in Python, designed to
 
 ##  Features
 
-Log In
+**Log In**
 
-User Management: Create, edit, and delete user profiles, including essential information like name, age, blood type, and gender.
+**User Management**: Create, edit, and delete user profiles, including essential information like name, age, blood type, and gender.
 
-Symptom Input: Record a wide range of symptoms experienced by users, allowing for comprehensive symptom analysis.
+**Symptom Input**: Record a wide range of symptoms experienced by users, allowing for comprehensive symptom analysis.
 
-Symptom Report Generation: Generate detailed reports summarizing user symptoms, potential diagnoses, and preventive measures.
+**Symptom Report Generation**: Generate detailed reports summarizing user symptoms, potential diagnoses, and preventive measures.
 
-Domain-Driven Design (DDD): Employ DDD principles to create a maintainable and scalable architecture, ensuring system robustness and flexibility.
+**Domain-Driven Design (DDD)**: Employ DDD principles to create a maintainable and scalable architecture, ensuring system robustness and flexibility.
 
-Communication with Insurance 
+**Communication with Insurance**
+
+**Communication with hospital**
 
 ## UML Diagrams
 
