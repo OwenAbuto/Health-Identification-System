@@ -75,6 +75,7 @@ https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&n
    https://trello.com/invite/b/3hH7ab2E/ATTI85ce7491f5828f31ac2e068fa4a8625f191259CE/olympus-project
 
 3. **Atlassian.**
+   https://id.atlassian.com/invite/p/jira-software?id=JlS24y0bS4WjJJHFuwCRZw
    
 ## Usage
 
