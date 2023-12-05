@@ -54,6 +54,7 @@ This is a simple health identification system implemented in Python, designed to
 ## UML Diagrams
 
 To enhance the understanding of the system's structure and behavior, UML diagrams have been created for the core classes:
+(Diagrams attached in the UML Diagrams folder) 
 
 **Class Diagram**: Illustrates the relationships and attributes of the classes involved in the system.
 
