@@ -98,10 +98,3 @@ class Users:
 
 
 
-
-# Example usage
-user = HealthIdentificationSystem().createUser("John Doe", 30, "A+", "Male")
-user.inputSymptoms(["Fever", "Cough", "Sore throat"])
-report = HealthIdentificationSystem().generateReport(user)
-print(report)
-
