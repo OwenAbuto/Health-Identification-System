@@ -57,18 +57,17 @@ To enhance the understanding of the system's structure and behavior, UML diagram
 
 **Class Diagram**: Illustrates the relationships and attributes of the classes involved in the system.
 
-![image](https://github.com/OwenAbuto/Health-Identification-System/assets/149301250/1b20b662-8dc2-4ce9-9e82-265442c92676)
+
 
 
 
 **Activity Diagrams**: Depict the workflows for user interactions and system operations
 
-![image](https://github.com/OwenAbuto/Health-Identification-System/assets/149301250/5cfc6115-b662-430d-a9fc-f3e2c5dd8f20)
 
 
 **Sequence diagrams**: Interaction between objects in a simplified manner. 
 
-![image](https://github.com/OwenAbuto/Health-Identification-System/assets/149301250/0f23cf81-f4e0-409f-8326-71300ecb7137)
+
 
 
 
