@@ -35,6 +35,61 @@ This is a simple health identification system implemented in Python, designed to
 ### Sources and References
 (Fields to be added)
 
+##  Features
+
+**Log In**
+
+**User Management**: Create, edit, and delete user profiles, including essential information like name, age, blood type, and gender.
+
+**Symptom Input**: Record a wide range of symptoms experienced by users, allowing for comprehensive symptom analysis.
+
+**Symptom Report Generation**: Generate detailed reports summarizing user symptoms, potential diagnoses, and preventive measures.
+
+**Domain-Driven Design (DDD)**: Employ DDD principles to create a maintainable and scalable architecture, ensuring system robustness and flexibility.
+
+**Communication with Insurance**
+
+**Communication with hospital**
+
+## UML Diagrams
+
+To enhance the understanding of the system's structure and behavior, UML diagrams have been created for the core classes:
+(Diagrams attached in the UML Diagrams folder) 
+
+**Class Diagram**: Illustrates the relationships and attributes of the classes involved in the system.
+
+
+
+
+
+**Activity Diagrams**: Depict the workflows for user interactions and system operations
+
+
+
+**Sequence diagrams**: Interaction between objects in a simplified manner. 
+
+
+
+
+
+## Requirements Engineering 
+
+1. **Trello.**
+   https://trello.com/invite/b/3hH7ab2E/ATTI85ce7491f5828f31ac2e068fa4a8625f191259CE/olympus-project
+
+3. **Atlassian.**
+   https://id.atlassian.com/invite/p/jira-software?id=JlS24y0bS4WjJJHFuwCRZw
+   
+## Usage
+
+**Basic user management by users and advanced user management by administrator**
+
+**Report generation to users, hospitals, and third parties such as insurance companies**
+
+**DDD Implementation**
+
+**Symptom inputs and generated outputs**
+
 ### Developer
 Owen Abuto Okoth 
 2023. 
